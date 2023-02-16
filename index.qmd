@@ -1,0 +1,7 @@
+---
+title: "Super Women: Statisticians and Data Scientists"
+---
+
+<img src="img/icon.png" class="center75">
+
+Add welcome and introduction text here. 

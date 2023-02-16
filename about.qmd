@@ -1,0 +1,20 @@
+---
+title: "Get the book"
+about:
+  template: marquee
+  links:
+    - icon: github
+      text: Github
+      href: https://github.com/stephaniehicks/superwomen
+---
+
+<img src="img/talithia.png" class="center50">
+
+You can the be the following ways: 
+
+1. Read the story by scrolling through the window below
+2. Download the PDF [here](https://www.dropbox.com/s/qsjnajdxvvz9edp/book-super-women-v2.pdf?dl=0).
+3. Buy a copy of the book on Amazon here.
+
+<embed src="img/book-super-women-v2.pdf" type="application/pdf" width="800" height="800">
+

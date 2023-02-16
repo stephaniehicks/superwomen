@@ -1,0 +1,23 @@
+project:
+  type: website
+
+website:
+  title: "Super Women: Statisticians and Data Scientists"
+  navbar:
+    right:
+      - about.qmd
+      - href: index.qmd
+        text: About the book
+      - href: About-authors.qmd
+        text: About the authors  
+      
+format:
+  html:
+    theme: zephyr
+    css: styles.css
+    toc: true
+
+editor: visual
+
+execute:
+  freeze: auto
