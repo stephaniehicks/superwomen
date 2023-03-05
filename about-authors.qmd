@@ -68,3 +68,8 @@ We would also like to thank
 -   Brian Caffo
 -   Erin Wiley
 -   The American Statistical Association
+
+
+:::{.column-page}
+![](img/banner.jpeg)
+:::

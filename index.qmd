@@ -1,5 +1,6 @@
 ---
 title: "Hi there and welcome!"
+
 ---
 
 We are a group of Statisticians and Data Scientists! 
@@ -53,3 +54,6 @@ Associate Professor<br> Department of Biostatistics, [Johns Hopkins Bloomberg Sc
 [stephaniehicks.com](https://www.stephaniehicks.com)
 </p>
 
+:::{.column-page}
+![](img/banner.jpeg)
+:::

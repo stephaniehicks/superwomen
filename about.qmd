@@ -8,13 +8,28 @@ about:
       href: https://github.com/stephaniehicks/superwomen
 ---
 
-<img src="img/talithia.png" class="center50">
 
-You can the be the following ways: 
+::: {layout-ncol=2}
+![](img/get-book-1.png)
 
-1. Read the story by scrolling through the window below
-2. Download the PDF [here](https://www.dropbox.com/s/qsjnajdxvvz9edp/book-super-women-v2.pdf?dl=0).
-3. Buy a copy of the book on Amazon here.
+![](img/get-book-2.jpeg)
+:::
+
+<br>
+
+You can get the book in the following ways: 
+
+1. Read the story by scrolling through the window below.
+2. Download the PDF from the window below.
+3. We are in the process of working with the American Statistical Association to self-publish the book on Amazon, in case someone would like a physical copy. Proceeds from this will go towards supporting the [Gertrude M. Cox Scholarship](https://www.amstat.org/your-career/awards/gertrude-m-cox-scholarship).
+
+<br>
 
 <embed src="img/book-super-women-v2.pdf" type="application/pdf" width="800" height="800">
 
+<br>
+<br>
+
+:::{.column-page}
+![](img/banner.jpeg)
+:::
