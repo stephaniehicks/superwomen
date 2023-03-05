@@ -8,7 +8,6 @@ about:
       href: https://github.com/stephaniehicks/superwomen
 ---
 
-
 ::: {layout-ncol=2}
 ![](img/get-book-1.png)
 
@@ -29,6 +28,7 @@ You can get the book in the following ways:
 
 <br>
 <br>
+
 
 :::{.column-page}
 ![](img/banner.jpeg)

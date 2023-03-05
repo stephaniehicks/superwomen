@@ -70,6 +70,9 @@ We would also like to thank
 -   The American Statistical Association
 
 
+<br>
+
+
 :::{.column-page}
 ![](img/banner.jpeg)
 :::

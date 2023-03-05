@@ -40,7 +40,7 @@ We are in the process of working with the American Statistical Association to se
 
 ### License
 
-The illustrations and narrative text in the book are licensed under the [CC-BY-NC-ND](https://creativecommons.org/licenses/by-nc-nd/4.0/) 4.0 license. This means that these specific parts of the book cannot be modified or remixed, if you use our materials.
+The illustrations in the book and website and narrative text in the book are licensed under the [CC-BY-NC-ND](https://creativecommons.org/licenses/by-nc-nd/4.0/) 4.0 license. This means that these specific parts of the book and website cannot be modified or remixed, if you use our materials.
 
 Everything else in this project is licensed under the [CC-BY-NC-SA](https://creativecommons.org/licenses/by-nc-sa/4.0) 4.0 license. In summary, this means that you can adapt the material to suit your needs as long as you cite the original project and authors.
 
@@ -49,10 +49,14 @@ Everything else in this project is licensed under the [CC-BY-NC-SA](https://crea
 ### Contact
 
 <p style="margin-left: 40px">
+
 Stephanie Hicks, PhD<br>
 Associate Professor<br> Department of Biostatistics, [Johns Hopkins Bloomberg School of Public Health](https://publichealth.jhu.edu)<br> Faculty member, [JHU Data Science Lab](https://jhudatascience.org) (DaSL)<br> Co-founder, [R-Ladies Baltimore](https://rladies-baltimore.github.io)<br>
 [stephaniehicks.com](https://www.stephaniehicks.com)
+
 </p>
+
+<br>
 
 :::{.column-page}
 ![](img/banner.jpeg)
