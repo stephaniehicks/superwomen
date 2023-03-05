@@ -18,6 +18,34 @@
     "href": "about-authors.html",
     "title": "About the authors",
     "section": "",
-    "text": "Add info here about the authors."
+    "text": "This book was created by (pictured above left to right)\n\nDonna LaLonde\n\nDirector of Strategic Initiatives and Outreach American Statistical Association (ASA)\n\n\n\nJessica Crowell\n\nVideographer/Editor (Multimedia Technician) Department of Biostatistics, Johns Hopkins Bloomberg School of Public Health Staff, JHU Data Science Lab (DaSL)\n\n\n\nStephanie Hicks\n\nAssociate Professor Department of Biostatistics, Johns Hopkins Bloomberg School of Public Health Faculty member, JHU Data Science Lab (DaSL) Faculty member, Malone Center for Engineering in Healthcare stephaniehicks.com\n\n\n\nLucy D’Agostino McGowan\n\nAssistant Professor Department of Statistical Sciences, Wake Forest University lucymcgowan.com\n\n\n\nMine Çetinkaya-Rundel\n\nProfessor of the Practice Department of Statistical Science, Duke University Developer Educator, Posit mine-cr.com\n\n\n\nMingfei Qiu\n\nSenior Quantitative Risk Management Analyst Federal Home Loan Bank of Atlanta\n\n\n\n\nAcknowledgements\nWe would also like to thank\n\nThe Women in Statistics and Data Science (WSDS) Conference 2018\nThe Department of Biostatistics at Johns Hopkins Bloomberg School of Public health\nAll the members of the Johns Hopkins Data Science Lab\nRoger Peng\nBrian Caffo\nErin Wiley\nThe American Statistical Association"
+  },
+  {
+    "objectID": "about-authors.html#jessica-crowell",
+    "href": "about-authors.html#jessica-crowell",
+    "title": "About the authors",
+    "section": "Jessica Crowell",
+    "text": "Jessica Crowell\n\nEditor/Writer/Illustrator\nVideographer/Editor (Multimedia Technician) at the JHU Biostatistics Department Data Science Lab"
+  },
+  {
+    "objectID": "about-authors.html#donna-lalonde",
+    "href": "about-authors.html#donna-lalonde",
+    "title": "About the authors",
+    "section": "Donna LaLonde",
+    "text": "Donna LaLonde\n\nResearcher/Writer/Editor\nDirector of Strategic Initiatives and Outreach: American Statistical Association (ASA)"
+  },
+  {
+    "objectID": "about-authors.html#mine-cetinkaya-rundel",
+    "href": "about-authors.html#mine-cetinkaya-rundel",
+    "title": "About the authors",
+    "section": "Mine Cetinkaya-Rundel",
+    "text": "Mine Cetinkaya-Rundel\n\nResearcher/Writer\nProfessor of the Practice: Department of Statistical Science at Duke University. Developer Educator Posit\nLucy D’Agostino McGowan Researcher/Writer Assistant Professor: Wake Forest University, Department of Statistical Sciences Degrees: Postdoctoral fellow at Johns Hopkins Bloomberg School of Public Health, Ph.D. in Biostatistics from Vanderbilt University, M.S. from Washington University in St. Louis, B.A.v from UNC Chapel Hill Mingfei Qiu Researcher/Writer Senior Quantitative Risk Management Analyst: Federal Home Loan Bank of Atlanta Degrees: Ph.D. in Statistics and M.S. in Financial Mathematics from Florida State University, USA, B.S. in Applied Math from Nanjing University of Information Science & Technology, China\nStephanie Hicks Editor/Writer Associate Professor: JHU Bloomberg School of Public Health, Biostatistics (Data Science Lab Faculty Memeber) Degrees: B.S. in Mathematics from LSU, M.A. and Ph.D. from the Department of Statistics at Rice University"
+  },
+  {
+    "objectID": "about-authors.html#acknowledgements",
+    "href": "about-authors.html#acknowledgements",
+    "title": "About the authors",
+    "section": "Acknowledgements",
+    "text": "Acknowledgements\nWe would also like to thank the\n\nThe American Statistical Association\nThe Department of Biostatistics at Johns Hopkins Bloomberg School of Public health\nAll the members of the Johns Hopkins Data Science Lab\nRoger Peng\nBrian Caffo\nErin Wiley\nThe Women in Statistics and Data Science (WSDS) Conference 2018"
   }
 ]
