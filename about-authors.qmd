@@ -3,7 +3,7 @@ title: "About the authors"
 editor: visual
 ---
 
-<img src="img/team.jpeg" class="center100">
+<img src="img/team.jpeg" class="center95">
 
 This book was created by (pictured above left to right)
 
