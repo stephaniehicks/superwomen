@@ -9,7 +9,7 @@ website:
       - href: index.qmd
         text: About the book
       - href: about-authors.qmd
-        text: About the authors  
+        text: About the Super Women Team  
       
 format:
   html:

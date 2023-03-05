@@ -1,74 +1,70 @@
 ---
-title: "About the authors"
+title: "About the Super Women Team"
 editor: visual
 ---
 
-<img src="img/team.jpeg" class="center95">
+<img src="img/team.jpeg" class="center95"/>
 
-This book was created by (pictured above left to right)
+This book was created and launched in 2023 by (pictured above left to right)
 
-### Donna LaLonde 
+### Donna LaLonde
 
 <p style="margin-left: 40px">
-Director of Strategic Initiatives and Outreach<br>
-[American Statistical Association](https://www.amstat.org/about-asa/asa-staff) (ASA)
+
+Director of Strategic Initiatives and Outreach<br> [American Statistical Association](https://www.amstat.org/about-asa/asa-staff) (ASA)
+
 </p>
 
-### Jessica Crowell 
+### Jessica Crowell
 
 <p style="margin-left: 40px">
-Videographer/Editor (Multimedia Technician)<br>
-Department of Biostatistics, [Johns Hopkins Bloomberg School of Public Health](https://publichealth.jhu.edu)<br>
-Staff, [JHU Data Science Lab](https://jhudatascience.org) (DaSL)
+
+Videographer/Editor (Multimedia Technician)<br> Department of Biostatistics, [Johns Hopkins Bloomberg School of Public Health](https://publichealth.jhu.edu)<br> Staff, [JHU Data Science Lab](https://jhudatascience.org) (DaSL)
+
 </p>
 
 ### Stephanie Hicks
 
 <p style="margin-left: 40px">
-Associate Professor<br>
-Department of Biostatistics, [Johns Hopkins Bloomberg School of Public Health](https://publichealth.jhu.edu)<br>
-Faculty member, [JHU Data Science Lab](https://jhudatascience.org) (DaSL)<br>
-Faculty member, [Malone Center for Engineering in Healthcare](https://malonecenter.jhu.edu)<br>
-[stephaniehicks.com](https://www.stephaniehicks.com)
+
+Associate Professor<br> Department of Biostatistics, [Johns Hopkins Bloomberg School of Public Health](https://publichealth.jhu.edu)<br> Faculty member, [JHU Data Science Lab](https://jhudatascience.org) (DaSL)<br> Co-founder, [R-Ladies Baltimore](https://rladies-baltimore.github.io)<br> [stephaniehicks.com](https://www.stephaniehicks.com)
+
 </p>
 
-
-### Lucy D’Agostino McGowan
+### Lucy D'Agostino McGowan
 
 <p style="margin-left: 40px">
-Assistant Professor<br>
-Department of Statistical Sciences, [Wake Forest University](https://www.wfu.edu)<br>
-[lucymcgowan.com](https://www.lucymcgowan.com)
+
+Assistant Professor<br> Department of Statistical Sciences, [Wake Forest University](https://www.wfu.edu)<br> [lucymcgowan.com](https://www.lucymcgowan.com)
+
 </p>
 
 ### Mine Çetinkaya-Rundel
 
 <p style="margin-left: 40px">
-Professor of the Practice<br>
-Department of Statistical Science, [Duke University](https://duke.edu)<br>
-Developer Educator, [Posit](https://posit.co)<br>
-[mine-cr.com](https://mine-cr.com)
+
+Professor of the Practice<br> Department of Statistical Science, [Duke University](https://duke.edu)<br> Developer Educator, [Posit](https://posit.co)<br> [mine-cr.com](https://mine-cr.com)
+
 </p>
 
 ### Mingfei Qiu
 
 <p style="margin-left: 40px">
-Senior Quantitative Risk Management Analyst<br>
-[Federal Home Loan Bank of Atlanta](https://corp.fhlbatl.com)
-</p>
 
+Senior Quantitative Risk Management Analyst<br> [Federal Home Loan Bank of Atlanta](https://corp.fhlbatl.com)
+
+</p>
 
 <br>
 
 # Acknowledgements
 
-We would also like to thank 
+We would also like to thank
 
-- The Women in Statistics and Data Science (WSDS) Conference 2018
-- The Department of Biostatistics at Johns Hopkins Bloomberg School of Public health
-- All the members of the Johns Hopkins Data Science Lab
-- Roger Peng
-- Brian Caffo
-- Erin Wiley
-- The American Statistical Association
-
+-   The Women in Statistics and Data Science (WSDS) Conference 2018
+-   The Department of Biostatistics at Johns Hopkins Bloomberg School of Public health
+-   All the members of the Johns Hopkins Data Science Lab
+-   Roger Peng
+-   Brian Caffo
+-   Erin Wiley
+-   The American Statistical Association
