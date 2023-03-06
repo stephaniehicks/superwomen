@@ -28,7 +28,7 @@ With this book, we aim to provide a playground of imagination for children to le
 
 The book is freely available now to download as a PDF on the [Get the book](https://www.stephaniehicks.com/superwomen/about) page. 
 
-We are in the process of working with the American Statistical Association to self-publish the book on Amazon, in case someone would like a physical copy. Proceeds from this will go towards supporting the [Gertrude M. Cox Scholarship](https://www.amstat.org/your-career/awards/gertrude-m-cox-scholarship).
+We are in the process of working with the American Statistical Association to make the book available on Amazon, in case someone would like a physical copy. Proceeds from this will go towards supporting the [Gertrude M. Cox Scholarship](https://www.amstat.org/your-career/awards/gertrude-m-cox-scholarship).
 
 ### License
 

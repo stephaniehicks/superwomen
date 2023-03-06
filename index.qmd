@@ -7,7 +7,7 @@ We are a group of Statisticians and Data Scientists!
 
 'What are those', you say? Well, if you are anything like us, you've got lots of big questions, you like to collect information or data about those questions, and you like to find patterns in the data to answer those questions to help make the world better -- like a super hero! 
 
-We would love to tell you a little bit about ourselves both when we were young and who we are now! 
+We would love to tell you a little bit about ourselves, both when we were young and who we are now! 
 
 :::{.column-page}
 ![](img/women-together.jpeg)
@@ -37,7 +37,7 @@ With this book, we aim to provide a playground of imagination for children to le
 
 The children's book is freely available now to download as a PDF on the [Get the book](about.qmd) page. 
 
-We are in the process of working with the American Statistical Association to self-publish the book on Amazon, in case someone would like a physical copy. Proceeds from this will go towards supporting the [Gertrude M. Cox Scholarship](https://www.amstat.org/your-career/awards/gertrude-m-cox-scholarship).
+We are in the process of working with the American Statistical Association to make the book available on Amazon, in case someone would like a physical copy. Proceeds from this will go towards supporting the [Gertrude M. Cox Scholarship](https://www.amstat.org/your-career/awards/gertrude-m-cox-scholarship).
 
 ### License
 
