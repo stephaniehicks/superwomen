@@ -18,7 +18,7 @@ We would love to tell you a little bit about ourselves both when we were young a
 
 ### About the book 
 
-This book features a group of statistician and data scientists who identify as a woman. On each page of the book, one woman is featured with the left side of the page describing the individual when she was young and the right side of the page descriving the individual today. 
+This children's book features a group of statistician and data scientists who identify as a woman. On each page of the book, one woman is featured with the left side of the page describing the individual when she was young and the right side of the page descriving the individual today. 
 
 ### Editors and illustrators of the book
 
@@ -35,7 +35,7 @@ With this book, we aim to provide a playground of imagination for children to le
 
 ### How do I access the book? 
 
-The book is freely available now to download as a PDF on the [Get the book](about.qmd) page. 
+The children's book is freely available now to download as a PDF on the [Get the book](about.qmd) page. 
 
 We are in the process of working with the American Statistical Association to self-publish the book on Amazon, in case someone would like a physical copy. Proceeds from this will go towards supporting the [Gertrude M. Cox Scholarship](https://www.amstat.org/your-career/awards/gertrude-m-cox-scholarship).
 
