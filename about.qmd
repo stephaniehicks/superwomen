@@ -9,12 +9,13 @@ about:
 ---
 
 ::: {layout-ncol=2}
-![](img/get-book-1.png)
+![](img/get-book-1.jpeg)
 
 ![](img/get-book-2.jpeg)
 :::
 
 <br>
+
 
 You can get the book in the following ways: 
 

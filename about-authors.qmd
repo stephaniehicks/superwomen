@@ -72,7 +72,6 @@ We would also like to thank
 
 <br>
 
-
 :::{.column-page}
 ![](img/banner.jpeg)
 :::
