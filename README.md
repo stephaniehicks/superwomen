@@ -18,7 +18,7 @@ The book was edited by Stephanie Hicks and Jessica Crowell and illustrated by Je
 
 - Jessica Crowell is a videographer and editor, trained at the Maryland Institute College of Art (MICA), and now in the department of Biostatistics at Johns Hopkins, where she works with faculty to record, edit, illustrate, all the video, audio, and text as part of work in the [Johns Hopkins Data Science Lab](https://jhudatascience.org). 
 
-- [Stephanie Hicks](https://www.stephaniehicks.com/) is a [problem-forward](https://simplystatistics.org/posts/2013-05-29-what-statistics-should-do-about-big-data-problem-forward-not-solution-backward/) scientist who uses statistics and data science tools to solve real-world problems in the biomedical data sciences. She is passionate about contributing and supporting initiatives that promote justice, equity, diversity, and inclusion. 
+- [Stephanie Hicks](https://www.stephaniehicks.com/) is a [problem-forward](https://simplystatistics.org/posts/2013-05-29-what-statistics-should-do-about-big-data-problem-forward-not-solution-backward/) scientist who uses statistics and data science tools to solve real-world problems in the biomedical data sciences. She is passionate about contributing to and supporting initiatives that promote justice, equity, diversity, and inclusion. 
 
 ### Why this book? 
 
