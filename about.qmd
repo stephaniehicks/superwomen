@@ -26,7 +26,7 @@ You can get the children's book in the following ways:
 <br>
 
 
-<embed src="img/book-super-women-v2.pdf" type="application/pdf" width="800" height="800">
+<embed src="img/book-super-women.pdf" type="application/pdf" width="800" height="800">
 
 <br>
 <br>
