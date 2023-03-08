@@ -31,7 +31,7 @@ The book was edited by Stephanie Hicks and Jessica Crowell and illustrated by Je
 
 ### Why this book? 
 
-With this book, we aim to provide a playground of imagination for children to learn about statistics and data science by highlighting the stories of several individuals in these fields. We hope this inspires the next generation to learn more about these fields and how they can be used to help make the world brighter.  
+With this book, we aim to provide a playground of imagination for children to learn about statistics and data science by highlighting the stories of several individuals in these fields. We hope this inspires a new generation to learn more about these fields and how they can be used to help make the world better and brighter.  
 
 ### How do I access the book? 
 
